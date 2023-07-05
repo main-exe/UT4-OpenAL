@@ -1,6 +1,6 @@
 # UT4-OpenAL
 
-OpenAL audio module for Windows build of 'Unreal Tournament 4 (2014)' aka UT4
+OpenAL audio module for Windows build of 'Unreal Tournament 4 (2014)' aka UT4.
 
 Main benefit over default 'XAudio2' audio module is ability to experience 3D spatial audio with custom HRTF.  
 In addition there are various fixes and adjustments made.
@@ -8,7 +8,7 @@ In addition there are various fixes and adjustments made.
 Intended to be used with **headphones** (stereo).  
 Output can be changed to speakers with "alsoft-config.exe", but is not recommended.
 
-All audio enhancements need to be turned off i.e. Windows Sonic, Creative stuff, Razer 7.1 surround sound... otherwise effect will be small.  
+All audio enhancements need to be turned off i.e. Windows Sonic, Creative stuff, Razer 7.1 Surround Sound...  
 The difference should be clearly noticeable as sound becomes out-of-head.
 
 Non-native to game "solutions" to create 3D spatial audio for headphones is done using 5.1 or 7.1 channel output.  
