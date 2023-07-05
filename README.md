@@ -13,10 +13,10 @@ Deployment instructions and a way to find best sounding HRTF are included in 'Re
 # Samples
 
 XAudio2 (default)  
-https://github.com/main-exe/UT4-OpenAL/assets/123046382/22cac3a2-7d25-4ca4-ac2f-a3beedbe00e2
+https://user-images.githubusercontent.com/123046382/251093016-618e0dce-888e-463c-b8b9-393166e09a8a.mp4  
 
 OpenAL  
-https://github.com/main-exe/UT4-OpenAL/assets/123046382/8aaac9a9-a642-48fe-910a-6dfc7af0e921
+https://user-images.githubusercontent.com/123046382/251093231-63203275-81e0-4387-b758-2afbc4cbdba4.mp4  
 
 Footsteps XAudio2-vs-OpenAL  
-https://github.com/main-exe/UT4-OpenAL/assets/123046382/06eb8a64-8005-409e-9b9e-91be492b61ad
+https://user-images.githubusercontent.com/123046382/251093306-ab5cd825-1814-456a-a4b8-dabcb11ffb4f.mp4
