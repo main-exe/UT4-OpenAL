@@ -21,7 +21,7 @@ https://github.com/main-exe/UT4-OpenAL/assets/123046382/63203275-81e0-4387-b758-
 
 https://github.com/main-exe/UT4-OpenAL/assets/123046382/ab5cd825-1814-456a-a4b8-dabcb11ffb4f
 
-# Instructions for other UT games
+## Instructions for other UT games
 
 [UT99](https://github.com/main-exe/UT99-OpenAL)
 
