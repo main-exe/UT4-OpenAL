@@ -26,3 +26,5 @@ https://github.com/main-exe/UT4-OpenAL/assets/123046382/ab5cd825-1814-456a-a4b8-
 [UT99](https://github.com/main-exe/UT99-OpenAL)
 
 [UT2004](https://github.com/main-exe/UT2004-OpenAL)
+
+[UT3](https://github.com/main-exe/UT3-OpenAL)
